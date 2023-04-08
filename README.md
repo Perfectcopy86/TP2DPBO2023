@@ -43,7 +43,6 @@ Class ini digunakan untuk melakukan koneksi ke database
 ![Register](https://user-images.githubusercontent.com/100756215/230728302-4bdff05f-48da-4edd-aa63-ff9749cd744f.png)
 
 `Login`
-
 ![login](https://user-images.githubusercontent.com/100756215/230728315-f22bca85-c469-45d0-9d4a-e08dbd8608f6.png)
 
 
