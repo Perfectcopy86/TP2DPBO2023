@@ -28,8 +28,8 @@ tampilan untuk list user
 Class ini digunakan untuk melakukan koneksi ke database
 
 # Akun
-username : admin
-password : admin
+- username : admin
+- password : admin
 
 # Demo
 https://youtu.be/mnGfpsk-1NQ
