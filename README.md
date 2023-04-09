@@ -27,6 +27,13 @@ tampilan untuk list user
 - `MyConnection`
 Class ini digunakan untuk melakukan koneksi ke database
 
+# Akun
+username : admin
+password : admin
+
+# Demo
+https://youtu.be/mnGfpsk-1NQ
+
 # Alur Program
 1. Buat akun, jika sudah ada balik ke menu login
 2. Lakukan login
