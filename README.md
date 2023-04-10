@@ -27,6 +27,11 @@ tampilan untuk list user
 - `MyConnection`
 Class ini digunakan untuk melakukan koneksi ke database
 
+# UML
+![tp 2 uml](https://user-images.githubusercontent.com/100756215/231008686-44c05fbb-1ea5-4ef7-8d86-2143020241de.png)
+
+
+
 # Akun
 - username : admin
 - password : admin
